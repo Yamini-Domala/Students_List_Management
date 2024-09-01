@@ -22,23 +22,28 @@ This is a simple Student Management System implemented in C++. It allows users t
 
 -Choose option 1 from the menu.
 -Enter the student's ID, name, age, and GPA when prompted.
--Edit Student Record:
+
+- Edit Student Record:
 
 -Choose option 2 from the menu.
 -Enter the student's ID to locate the record you wish to edit.
 -Provide the new details for the student.
+
 -Delete Student Record:
 
 -Choose option 3 from the menu.
 -Enter the student's ID to remove the record.
+
 -Search Student Record:
 
 -Choose option 4 from the menu.
 -Enter the student's ID to search for their record.
+
 -List All Students:
 
 -Choose option 5 from the menu.
 -View a list of all students with their details.
+
 -Quit:
 
 -Choose option 6 from the menu to exit the program.
