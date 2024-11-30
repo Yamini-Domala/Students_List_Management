@@ -15,7 +15,7 @@ This is a simple Student Management System implemented in C++. It allows users t
 
 ## Requirements
 
-- **Compiler**: A C++ compiler (e.g., g++, clang++) that supports the C++ standard.
+- **Compiler**: A C++ compiler that supports the C++ standard.
 - **Operating System**: The provided code is written for Windows. If you are using Unix-like systems, you may need to modify the code to use `system("clear")` instead of `system("cls")`.
 ## Usage
 - Add New Student:
